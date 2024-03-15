@@ -8,7 +8,7 @@ export default class Navbar extends React.Component {
     return (
       <div className=" items-center mt-2">
         <div className="flex flex-row justify-between p-5 md:px-32 px-5 black">
-          <div className="flex items-center cursor-pointer w-32 mr-10 ml-2">
+          <div className="flex items-center cursor-pointer w-44 mr-10 ml-2">
             <Link>
               <img src={Logo} alt="logo" />
             </Link>
